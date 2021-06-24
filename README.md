@@ -1,5 +1,7 @@
 # Biologically Plausible Spiking Neural Networks for Perceptual Filling-In
 
+![Model](https://github.com/NBELab/CogSci2021/blob/main/images/models.png)
+
 ## Install
 
 Dependencies:

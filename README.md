@@ -14,5 +14,8 @@ Dependencies:
 
 ## Notebooks
 
+[Feedback model](https://github.com/NBELab/CogSci2021/blob/main/notebokes/feedback-all.ipynb)
+[Feedforward model]
+
 
 
